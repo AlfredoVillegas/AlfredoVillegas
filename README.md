@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-end Developer
 ------------------
 
-He estado aprendiendo a programar durante 8 meses consecutivos, comencé con un poco de fron-end con Vue.Js pero realmente encontré mi pasión por el desarrollo del back-end. Cuento con experiencia en la creación de Apis-Rest a través del entorno de NodeJS con Express.Js y testing unitario con Jest. Entusiasta y actualmente aprendiendo de las practicas que permitan que el proyecto escale e itere a nivel de funcionalidades de una forma óptima para los desarrolladores, enfocado en crear APIs mantenibles y resistentes al cambio con practicas como Monolitos Modulares con Arquitectura Hexagonal.
+He estado aprendiendo a programar durante 8 meses consecutivos, comencé con un poco de fron-end con Vue.Js pero realmente encontré mi pasión por el desarrollo del back-end. 
+
+Cuento con experiencia en la creación de Apis-Rest a través del entorno de NodeJS con Express.Js y testing unitario con Jest. 
+
+Entusiasta y actualmente aprendiendo de las practicas que permitan que el proyecto escale e itere a nivel de funcionalidades de una forma óptima para los desarrolladores, enfocado en crear APIs mantenibles y resistentes al cambio con practicas como Monolitos Modulares con Arquitectura Hexagonal.
 
 * 🌍  I'm based in: Venezuela, interesado en empleos remotos dentro de Latino America
 * ✉️  You can contact me at: [alfreddovillegas@gmail.com](mailto:alfreddovillegas@gmail.com)
